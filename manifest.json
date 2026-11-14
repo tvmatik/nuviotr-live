@@ -13,8 +13,7 @@
       "description": "Kool Türk kanalları.",
       "logo": "https://img.icons8.com/color/452/dog.png",
       "version": "0.1.0",
-      "filename": "kool.js",
-      "pluginType": "livetv",
+      "filename": "providers/kool.js",
       "supportedTypes": [
         "tv"
       ],
