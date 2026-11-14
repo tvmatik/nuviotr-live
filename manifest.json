@@ -1,0 +1,165 @@
+{
+  "id": "app.tvmatik.plugins",
+  "name": "TVMatik Plugins",
+  "description": "TVMatik eklenti deposu",
+  "logo": "https://avatars.githubusercontent.com/u/344905757?v=4",
+  "background": "https://raw.githubusercontent.com/TVMatikApp/tmp/refs/heads/main/img/banner.png",
+  "version": "0.1.0",
+  "author": "tvmatik",
+  "scrapers": [
+    {
+      "id": "plugin.kool",
+      "name": "Kool Türkiye",
+      "description": "Kool Türk kanalları.",
+      "logo": "https://img.icons8.com/color/452/dog.png",
+      "version": "0.1.0",
+      "filename": "kool.js",
+      "pluginType": "livetv",
+      "supportedTypes": [
+        "tv"
+      ],
+      "contentLanguage": [
+        "tr"
+      ],
+      "supportsStreams": true,
+      "supportsSearch": true,
+      "catalogs": [
+        {
+          "id": "A",
+          "name": "A",
+          "type": "series"
+        },
+        {
+          "id": "B",
+          "name": "B",
+          "type": "series"
+        },
+        {
+          "id": "C",
+          "name": "C",
+          "type": "series"
+        },
+        {
+          "id": "D",
+          "name": "D",
+          "type": "series"
+        },
+        {
+          "id": "E",
+          "name": "E",
+          "type": "series"
+        },
+        {
+          "id": "F",
+          "name": "F",
+          "type": "series"
+        },
+        {
+          "id": "G",
+          "name": "G",
+          "type": "series"
+        },
+        {
+          "id": "H",
+          "name": "H",
+          "type": "series"
+        },
+        {
+          "id": "I",
+          "name": "I",
+          "type": "series"
+        },
+        {
+          "id": "J",
+          "name": "J",
+          "type": "series"
+        },
+        {
+          "id": "K",
+          "name": "K",
+          "type": "series"
+        },
+        {
+          "id": "L",
+          "name": "L",
+          "type": "series"
+        },
+        {
+          "id": "M",
+          "name": "M",
+          "type": "series"
+        },
+        {
+          "id": "N",
+          "name": "N",
+          "type": "series"
+        },
+        {
+          "id": "O",
+          "name": "O",
+          "type": "series"
+        },
+        {
+          "id": "P",
+          "name": "P",
+          "type": "series"
+        },
+        {
+          "id": "Q",
+          "name": "Q",
+          "type": "series"
+        },
+        {
+          "id": "R",
+          "name": "R",
+          "type": "series"
+        },
+        {
+          "id": "S",
+          "name": "S",
+          "type": "series"
+        },
+        {
+          "id": "T",
+          "name": "T",
+          "type": "series"
+        },
+        {
+          "id": "U",
+          "name": "U",
+          "type": "series"
+        },
+        {
+          "id": "V",
+          "name": "V",
+          "type": "series"
+        },
+        {
+          "id": "W",
+          "name": "W",
+          "type": "series"
+        },
+        {
+          "id": "X",
+          "name": "X",
+          "type": "series"
+        },
+        {
+          "id": "Y",
+          "name": "Y",
+          "type": "series"
+        },
+        {
+          "id": "Z",
+          "name": "Z",
+          "type": "series"
+        },
+        {
+          "id": "other",
+          "name": "Diğer",
+          "type": "series"
+        }
+      ]
+    }
+  ]
+}
