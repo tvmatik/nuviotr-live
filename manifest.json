@@ -159,6 +159,55 @@
           "type": "series"
         }
       ]
+    },
+    {
+      "id": "plugin.tvvoo",
+      "name": "TvVoo Türkiye",
+      "description": "TvVoo Türk kanalları.",
+      "logo": "https://i.imgur.com/miRBJ2B.png",
+      "version": "0.1.0",
+      "filename": "providers/tvvoo.js",
+      "pluginType": "livetv",
+      "supportedTypes": [
+        "tv"
+      ],
+      "contentLanguage": [
+        "tr"
+      ],
+      "supportsStreams": true,
+      "supportsSearch": true,
+      "catalogs": [
+        {
+          "id": "all",
+          "name": "Tüm Kanallar",
+          "type": "series"
+        },
+        {
+          "id": "news",
+          "name": "Haber",
+          "type": "series"
+        },
+        {
+          "id": "sport",
+          "name": "Spor",
+          "type": "series"
+        },
+        {
+          "id": "movies",
+          "name": "Film",
+          "type": "series"
+        },
+        {
+          "id": "kids",
+          "name": "Çocuk",
+          "type": "series"
+        },
+        {
+          "id": "documentary",
+          "name": "Belgesel",
+          "type": "series"
+        }
+      ]
     }
   ]
 }
